@@ -1,4 +1,4 @@
-import os,sys,time,json,random,re,string,platform,base64,uuid,getpass,subprocess
+import os,sys,time,json,random,re,string,platform,base64,uuid,getpass
 #-----------color-----------------#
 black="\033[0;31m"        # Black
 red="\033[0;32m"          # Red
@@ -237,3 +237,4 @@ def permission():
 	os.system('termux-setup-storage')
 
 lock()
+
