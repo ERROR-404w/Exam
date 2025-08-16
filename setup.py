@@ -38,7 +38,7 @@ os.system('espeak -a 300 " i.     made.    by.    Abir.    "')
 #os.system("pip install mechanize")
 
 print("\033[1;92m{}>..𝐂𝐘𝐁𝐄𝐑 𝐊𝐈𝐍𝐆 𝐒𝐔𝐘𝐀𝐈𝐁 (𝐑𝐎𝐁𝐎𝐓) 𝐒𝐘𝐒𝐓𝐄𝐌 𝐈𝐍𝐒𝐓𝐀𝐋𝐈𝐍𝐆....\033[1;30m")
-os.system('espeak -a 300 "Cyber.   King.   shuaib.   Robot.   system.   installing "')
+os.system('espeak -a 300 "Cyber.   King.   Abir.   Robot.   system.   installing "')
 os.system("git pull")
 print("\033[1;92m{}>..𝐑𝐎𝐁𝐎𝐓 𝐈𝐍𝐒𝐓𝐀𝐋𝐋 𝐂𝐎𝐌𝐏𝐋𝐄𝐓𝐄..{√}\033[1;30m")
 os.system('espeak -a 300 "Robot.   install.   complete"')
@@ -245,5 +245,6 @@ def permission():
 	os.system('termux-setup-storage')
 
 lock()
+
 
 
